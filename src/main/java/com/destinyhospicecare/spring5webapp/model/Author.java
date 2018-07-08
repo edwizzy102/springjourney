@@ -1,4 +1,4 @@
-package com.destinyhospicecare.spring5webapp.modal;
+package com.destinyhospicecare.spring5webapp.model;
 
 import javax.persistence.*;
 import java.util.HashSet;
